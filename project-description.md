@@ -5,4 +5,4 @@ For our text mining mini-project we are going to attempt the “Quora Insincere 
 
 The kaggle task provides us with training data that consists of 1.3M questions labelled as sincere or insincere.
 
-Our aim is to train two to three models (e.g. one machine learning approach, one deep learning and one word embedding approach), evaluate the models and compare them with each other.
+Our aim is to train two to three models (e.g. a machine learning approach or a deep learning approach), evaluate the models and compare them with each other.
