@@ -1,0 +1,403 @@
+
+Starting mulitple training iterations with data/fasttext/lc/
+
+Training default settings...
+Testing default settings...
+N	130613
+P@1	0.952
+R@1	0.952
+
+Iterating learning rate...
+
+Training with learning rate = 0.1
+Testing with learning rate = 0.1
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.2
+Testing with learning rate = 0.2
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.3
+Testing with learning rate = 0.3
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.4
+Testing with learning rate = 0.4
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.5
+Testing with learning rate = 0.5
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.6
+Testing with learning rate = 0.6
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.7
+Testing with learning rate = 0.7
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.8
+Testing with learning rate = 0.8
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 0.9
+Testing with learning rate = 0.9
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with learning rate = 1
+Testing with learning rate = 1
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Iterating epochs...
+
+Training with epoch = 1
+Testing with epoch = 1
+N	130613
+P@1	0.95
+R@1	0.95
+Removing current models...
+
+Training with epoch = 2
+Testing with epoch = 2
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 3
+Testing with epoch = 3
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 4
+Testing with epoch = 4
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 5
+Testing with epoch = 5
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 6
+Testing with epoch = 6
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 7
+Testing with epoch = 7
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 8
+Testing with epoch = 8
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 9
+Testing with epoch = 9
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 10
+Testing with epoch = 10
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 11
+Testing with epoch = 11
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 12
+Testing with epoch = 12
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 13
+Testing with epoch = 13
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 14
+Testing with epoch = 14
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current models...
+
+Training with epoch = 15
+Testing with epoch = 15
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 16
+Testing with epoch = 16
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 17
+Testing with epoch = 17
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 18
+Testing with epoch = 18
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 19
+Testing with epoch = 19
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 20
+Testing with epoch = 20
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 21
+Testing with epoch = 21
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 22
+Testing with epoch = 22
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 23
+Testing with epoch = 23
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 24
+Testing with epoch = 24
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 25
+Testing with epoch = 25
+N	130613
+P@1	0.951
+R@1	0.951
+Removing current models...
+
+Training with epoch = 26
+Testing with epoch = 26
+N	130613
+P@1	0.95
+R@1	0.95
+Removing current models...
+
+Training with epoch = 27
+Testing with epoch = 27
+N	130613
+P@1	0.95
+R@1	0.95
+Removing current models...
+
+Training with epoch = 28
+Testing with epoch = 28
+N	130613
+P@1	0.95
+R@1	0.95
+Removing current models...
+
+Training with epoch = 29
+Testing with epoch = 29
+N	130613
+P@1	0.95
+R@1	0.95
+Removing current models...
+
+Training with epoch = 30
+Testing with epoch = 30
+N	130613
+P@1	0.95
+R@1	0.95
+Removing current models...
+
+Iterating ngrams...
+
+Training with word ngrams = 1
+Testing with word ngrams = 1
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with word ngrams = 2
+Testing with word ngrams = 2
+N	130613
+P@1	0.953
+R@1	0.953
+Removing current model...
+
+Training with word ngrams = 3
+Testing with word ngrams = 3
+N	130613
+P@1	0.953
+R@1	0.953
+Removing current model...
+
+Training with word ngrams = 4
+Testing with word ngrams = 4
+N	130613
+P@1	0.953
+R@1	0.953
+Removing current model...
+
+Training with word ngrams = 5
+Testing with word ngrams = 5
+N	130613
+P@1	0.953
+R@1	0.953
+Removing current model...
+
+Iterating dimensions...
+
+Training with epoch = 50
+Testing with epoch = 50
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 100
+Testing with epoch = 100
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 150
+Testing with epoch = 150
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 200
+Testing with epoch = 200
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 250
+Testing with epoch = 250
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 300
+Testing with epoch = 300
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 350
+Testing with epoch = 350
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 400
+Testing with epoch = 400
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 450
+Testing with epoch = 450
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training with epoch = 500
+Testing with epoch = 500
+N	130613
+P@1	0.952
+R@1	0.952
+Removing current model...
+
+Training completed.

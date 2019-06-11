@@ -1,0 +1,443 @@
+$ sh ./fasttext_model_trainer.sh -i data/fasttext/tokenized/ -o fasttext_models/tokenized/
+
+Establinging output path...
+Starting mulitple training iterations with data/fasttext/tokenized/
+
+Training default settings...
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2243151  lr: 0.000000  loss: 0.125251  eta: 0h0m
+Validating default settings...
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+
+Iterating epochs...
+
+Training with epoch = 1
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2166871  lr: 0.000000  loss: 0.133496  eta: 0h0m
+Validating with epoch = 1
+N	130613
+P@1	0.952
+R@1	0.952
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 2
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2213595  lr: 0.000000  loss: 0.129026  eta: 0h0m
+Validating with epoch = 2
+N	130613
+P@1	0.953
+R@1	0.953
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 3
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2178102  lr: 0.000000  loss: 0.126407  eta: 0h0m
+Validating with epoch = 3
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 4
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2176380  lr: 0.000000  loss: 0.125267  eta: 0h0m
+Validating with epoch = 4
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 5
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2292623  lr: 0.000000  loss: 0.125258  eta: 0h0m
+Validating with epoch = 5
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 6
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2175292  lr: 0.000000  loss: 0.122554  eta: 0h0m
+Validating with epoch = 6
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 7
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2274793  lr: 0.000000  loss: 0.121271  eta: 0h0m
+Validating with epoch = 7
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 8
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2348729  lr: 0.000000  loss: 0.124745  eta: 0h0m
+Validating with epoch = 8
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 9
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2131893  lr: 0.000000  loss: 0.119312  eta: 0h0m 14m
+Validating with epoch = 9
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 10
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2280222  lr: 0.000000  loss: 0.120814  eta: 0h0m
+Validating with epoch = 10
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 11
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2143745  lr: 0.000000  loss: 0.118978  eta: 0h0m
+Validating with epoch = 11
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 12
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2360496  lr: 0.000000  loss: 0.124911  eta: 0h0m 14m
+Validating with epoch = 12
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 13
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2361777  lr: 0.000000  loss: 0.107059  eta: 0h0m
+Validating with epoch = 13
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 14
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2429840  lr: 0.000000  loss: 0.114040  eta: 0h0m
+Validating with epoch = 14
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 15
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2444947  lr: 0.000000  loss: 0.677780  eta: 0h0m
+Validating with epoch = 15
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 16
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2394634  lr: 0.000000  loss: 0.124172  eta: 0h0m
+Validating with epoch = 16
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 17
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2450896  lr: 0.000000  loss: 0.130086  eta: 0h0m
+Validating with epoch = 17
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 18
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2434536  lr: 0.000000  loss: 0.126551  eta: 0h0m
+Validating with epoch = 18
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 19
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2450160  lr: 0.000000  loss: 0.123163  eta: 0h0m
+Validating with epoch = 19
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Training with epoch = 20
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2413842  lr: 0.000000  loss: 0.114254  eta: 0h0m
+Validating with epoch = 20
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current models...
+
+Iterating ngrams...
+
+Training with word ngrams = 1
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2444121  lr: 0.000000  loss: 0.634946  eta: 0h0m
+Validating with word ngrams = 1
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with word ngrams = 2
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1369518  lr: 0.000000  loss: 0.147059  eta: 0h0m
+Validating with word ngrams = 2
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current model...
+
+Training with word ngrams = 3
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 940923  lr: 0.000000  loss: 0.074853  eta: 0h0m
+Validating with word ngrams = 3
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current model...
+
+Training with word ngrams = 4
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 716995  lr: 0.000000  loss: 0.018067  eta: 0h0m
+Validating with word ngrams = 4
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current model...
+
+Training with word ngrams = 5
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 563713  lr: 0.000000  loss: 0.047250  eta: 0h0m
+Validating with word ngrams = 5
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current model...
+
+Iterating dimensions...
+
+Training with dim = 50
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2811136  lr: 0.000000  loss: 0.142359  eta: 0h0m
+Validating with dim = 50
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 100
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2413895  lr: 0.000000  loss: 0.143688  eta: 0h0m
+Validating with dim = 100
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 150
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 2095348  lr: 0.000000  loss: 0.142433  eta: 0h0m
+Validating with dim = 150
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 200
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1942975  lr: 0.000000  loss: 0.137143  eta: 0h0m
+Validating with dim = 200
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 250
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1692964  lr: 0.000000  loss: 0.122042  eta: 0h0m
+Validating with dim = 250
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 300
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1596370  lr: 0.000000  loss: 0.197368  eta: 0h0m
+Validating with dim = 300
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 350
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1433429  lr: 0.000000  loss: 0.124704  eta: 0h0m
+Validating with dim = 350
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 400
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1357144  lr: 0.000000  loss: 0.124557  eta: 0h0m
+Validating with dim = 400
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 450
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1246338  lr: 0.000000  loss: 0.127911  eta: 0h0m
+Validating with dim = 450
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training with dim = 500
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1168834  lr: 0.000000  loss: 0.121096  eta: 0h0m
+Validating with dim = 500
+N	130613
+P@1	0.954
+R@1	0.954
+Number of examples: 130613
+Removing current model...
+
+Training completed.

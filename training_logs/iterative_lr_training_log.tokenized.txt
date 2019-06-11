@@ -1,0 +1,130 @@
+$ sh ./fasttext_lr_trainer.sh -i data/fasttext/tokenized/ -o fasttext_models/tokenized/
+
+Establinging output path...
+mkdir: fasttext_models/tokenized/: File exists
+Starting mulitple training iterations with data/fasttext/tokenized/
+
+
+Iterating learning rate...
+
+Training with learning rate = 0.1
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1205907  lr: 0.000000  loss: 0.115317  eta: 0h0m
+Validating with learning rate = 0.1
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.2
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1365481  lr: 0.000000  loss: 0.105175  eta: 0h0m 14m
+Validating with learning rate = 0.2
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.3
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1439773  lr: 0.000000  loss: 0.182842  eta: 0h0m
+Validating with learning rate = 0.3
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.4
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1435464  lr: 0.000000  loss: 0.325843  eta: 0h0m
+Validating with learning rate = 0.4
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.5
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1428178  lr: 0.000000  loss: 0.135192  eta: 0h0m 14m
+Validating with learning rate = 0.5
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.6
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1246715  lr: 0.000000  loss: 0.109553  eta: 0h0m
+Validating with learning rate = 0.6
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.7
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1383405  lr: 0.000000  loss: 0.106375  eta: 0h0m
+Validating with learning rate = 0.7
+N	130613
+P@1	0.955
+R@1	0.955
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.8
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1390372  lr: 0.000000  loss: 0.108756  eta: 0h0m 14m
+Validating with learning rate = 0.8
+N	130613
+P@1	0.956
+R@1	0.956
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 0.9
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1438125  lr: 0.000000  loss: 0.158297  eta: 0h0m
+Validating with learning rate = 0.9
+N	130613
+P@1	0.955
+R@1	0.955
+Number of examples: 130613
+Removing current models...
+
+Training with learning rate = 1
+Read 17M words
+Number of words:  193207
+Number of labels: 2
+Progress: 100.0%  words/sec/thread: 1413599  lr: 0.000000  loss: 0.131091  eta: 0h0m 14m
+Validating with learning rate = 1
+N	130613
+P@1	0.955
+R@1	0.955
+Number of examples: 130613
+Removing current models...
+
+Training completed.

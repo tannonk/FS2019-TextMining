@@ -1,3 +1,4 @@
 data/*
 sample_solutions/*.ipynb
 *.pyc
+fasttext_models/*
