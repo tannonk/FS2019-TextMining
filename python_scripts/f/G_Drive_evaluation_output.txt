@@ -1,0 +1,55 @@
+***
+test_as_downsampled.tsv
+***
+Accuracy:
+0.8932964659385101
+
+Precision, Recall, f-score (binary):
+(0.992435593574341, 0.8929779549948523, 0.9400835243670083, None)
+
+Precision, Recall, f-score (micro):
+(0.8932964659385101, 0.8932964659385101, 0.8932964659385101, None)
+
+Precision, Recall, f-score (macro):
+(0.6757695901032149, 0.8955222618831334, 0.7265694283025577, None)
+
+Precision, Recall, f-score (weighted):
+(0.9527935252159708, 0.8932964659385101, 0.9133546039938609, None)
+
+
+***
+test_tk_flair_baseline.tsv
+***
+Accuracy:
+0.9561114600407482
+
+Precision, Recall, f-score (binary):
+(0.9676565857413169, 0.9861422058078538, 0.97681194609688, None)
+
+Precision, Recall, f-score (micro):
+(0.9561114600407482, 0.9561114600407482, 0.9561114600407482, None)
+
+Precision, Recall, f-score (macro):
+(0.838473476278269, 0.7462526985965359, 0.7838507824158539, None)
+
+Precision, Recall, f-score (weighted):
+(0.9514847024322584, 0.9561114600407482, 0.9526559597980496, None)
+
+
+***
+test_tk_upsampling.tsv
+***
+Accuracy:
+0.9268064768149021
+
+Precision, Recall, f-score (binary):
+(0.9910007136764782, 0.9303678525321524, 0.9597275838236038, None)
+
+Precision, Recall, f-score (micro):
+(0.9268064768149021, 0.9268064768149021, 0.9268064768149021, None)
+
+Precision, Recall, f-score (macro):
+(0.7234058485368342, 0.9019191196091991, 0.7793770513948499, None)
+
+Precision, Recall, f-score (weighted):
+(0.9575016521418167, 0.9268064768149021, 0.9371502687451287, None)
