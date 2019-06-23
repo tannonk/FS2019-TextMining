@@ -1,0 +1,74 @@
+***
+train.predictions.txt
+***
+Accuracy:
+0.919050936736772
+
+Precision, Recall, f-score (binary):
+(0.9487992168631195, 0.9657622633496137, 0.957205593669682, None)
+
+Precision, Recall, f-score (micro):
+(0.919050936736772, 0.919050936736772, 0.919050936736772, None)
+
+Precision, Recall, f-score (macro):
+(0.6242492576129831, 0.5926059023170087, 0.6052887653398901, None)
+
+Precision, Recall, f-score (weighted):
+(0.9081723892598969, 0.919050936736772, 0.9131530097523683, None)
+
+
+***
+train_upsampled.predictions.txt
+***
+Accuracy:
+0.9135537810172035
+
+Precision, Recall, f-score (binary):
+(0.9500279377110512, 0.9581829170682304, 0.9540880017240889, None)
+
+Precision, Recall, f-score (micro):
+(0.9135537810172035, 0.9135537810172035, 0.9135537810172035, None)
+
+Precision, Recall, f-score (macro):
+(0.6156652883389618, 0.6016602658735648, 0.6080329543884188, None)
+
+Precision, Recall, f-score (weighted):
+(0.9081727677261825, 0.9135537810172035, 0.9107691894776954, None)
+
+
+***
+train_upsampled_replaced.predictions.txt
+***
+Accuracy:
+0.9164095457573136
+
+Precision, Recall, f-score (binary):
+(0.9492137148749678, 0.9623156209673467, 0.9557197667156055, None)
+
+Precision, Recall, f-score (micro):
+(0.9164095457573136, 0.9164095457573136, 0.9164095457573136, None)
+
+Precision, Recall, f-score (macro):
+(0.6188628327651631, 0.5955920612481993, 0.6054860770822229, None)
+
+Precision, Recall, f-score (weighted):
+(0.9078607337590352, 0.9164095457573136, 0.9118778763562554, None)
+
+
+***
+train_downsampled.predictions.txt
+***
+Accuracy:
+0.8377956252440416
+
+Precision, Recall, f-score (binary):
+(0.9581538461538461, 0.8647315375945377, 0.9090487597558149, None)
+
+Precision, Recall, f-score (micro):
+(0.8377956252440416, 0.8377956252440416, 0.8377956252440416, None)
+
+Precision, Recall, f-score (macro):
+(0.5673531623251704, 0.6495523131397765, 0.5800546400589028, None)
+
+Precision, Recall, f-score (weighted):
+(0.9092338214962787, 0.8377956252440416, 0.8678656167528633, None)
