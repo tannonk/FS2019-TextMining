@@ -4,8 +4,11 @@ train.predictions.txt
 Accuracy:
 0.919050936736772
 
-Precision, Recall, f-score (binary):
+Precision, Recall, f-score (binary), pos_label=0 :
 (0.9487992168631195, 0.9657622633496137, 0.957205593669682, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.29969929836284664, 0.21944954128440367, 0.25337193701009814, None)
 
 Precision, Recall, f-score (micro):
 (0.919050936736772, 0.919050936736772, 0.919050936736772, None)
@@ -23,8 +26,11 @@ train_upsampled.predictions.txt
 Accuracy:
 0.9135537810172035
 
-Precision, Recall, f-score (binary):
+Precision, Recall, f-score (binary), pos_label=0 :
 (0.9500279377110512, 0.9581829170682304, 0.9540880017240889, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.2813026389668725, 0.24513761467889908, 0.26197790705274854, None)
 
 Precision, Recall, f-score (micro):
 (0.9135537810172035, 0.9135537810172035, 0.9135537810172035, None)
@@ -42,8 +48,11 @@ train_upsampled_replaced.predictions.txt
 Accuracy:
 0.9164095457573136
 
-Precision, Recall, f-score (binary):
+Precision, Recall, f-score (binary), pos_label=0 :
 (0.9492137148749678, 0.9623156209673467, 0.9557197667156055, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.2885119506553585, 0.228868501529052, 0.2552523874488403, None)
 
 Precision, Recall, f-score (micro):
 (0.9164095457573136, 0.9164095457573136, 0.9164095457573136, None)
@@ -61,8 +70,11 @@ train_downsampled.predictions.txt
 Accuracy:
 0.8377956252440416
 
-Precision, Recall, f-score (binary):
+Precision, Recall, f-score (binary), pos_label=0 :
 (0.9581538461538461, 0.8647315375945377, 0.9090487597558149, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.1765524784964948, 0.4343730886850153, 0.2510605203619909, None)
 
 Precision, Recall, f-score (micro):
 (0.8377956252440416, 0.8377956252440416, 0.8377956252440416, None)

@@ -4,8 +4,11 @@ test_as_downsampled.tsv
 Accuracy:
 0.8932964659385101
 
-Precision, Recall, f-score (binary):
+Precision, Recall, f-score (binary), pos_label=0 :
 (0.992435593574341, 0.8929779549948523, 0.9400835243670083, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.35910358663208886, 0.8980665687714146, 0.513055332238107, None)
 
 Precision, Recall, f-score (micro):
 (0.8932964659385101, 0.8932964659385101, 0.8932964659385101, None)
@@ -23,8 +26,11 @@ test_tk_flair_baseline.tsv
 Accuracy:
 0.9561114600407482
 
-Precision, Recall, f-score (binary):
+Precision, Recall, f-score (binary), pos_label=0 :
 (0.9676565857413169, 0.9861422058078538, 0.97681194609688, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.7092903668152211, 0.5063631913852178, 0.5908896187348278, None)
 
 Precision, Recall, f-score (micro):
 (0.9561114600407482, 0.9561114600407482, 0.9561114600407482, None)
@@ -42,8 +48,11 @@ test_tk_upsampling.tsv
 Accuracy:
 0.9268064768149021
 
-Precision, Recall, f-score (binary):
+Precision, Recall, f-score (binary), pos_label=0 :
 (0.9910007136764782, 0.9303678525321524, 0.9597275838236038, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.4558109833971903, 0.8734703866862458, 0.5990265189660959, None)
 
 Precision, Recall, f-score (micro):
 (0.9268064768149021, 0.9268064768149021, 0.9268064768149021, None)
