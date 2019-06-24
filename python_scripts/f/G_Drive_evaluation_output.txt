@@ -62,3 +62,25 @@ Precision, Recall, f-score (macro):
 
 Precision, Recall, f-score (weighted):
 (0.9575016521418167, 0.9268064768149021, 0.9371502687451287, None)
+
+
+***
+test_tk_upsampling_replaced.tsv
+***
+Accuracy:
+0.9582331224436649
+
+Precision, Recall, f-score (binary), pos_label=0 :
+(0.9711582628877194, 0.9846877910872158, 0.9778762318593621, None)
+
+Precision, Recall, f-score (binary), pos_label=1 :
+(0.7102211226225452, 0.5620411160058737, 0.6275018785436164, None)
+
+Precision, Recall, f-score (micro):
+(0.9582331224436649, 0.9582331224436649, 0.9582331224436649, None)
+
+Precision, Recall, f-score (macro):
+(0.8406896927551324, 0.7733644535465447, 0.8026890552014893, None)
+
+Precision, Recall, f-score (weighted):
+(0.9548254582319573, 0.9582331224436649, 0.9559452953001603, None)

@@ -4,7 +4,7 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 
 # Get true labels
 true = []
-with open('/Users/aiolf1/Desktop/tm_miniproject_fat32/G_Drive/test_tk_flair_baseline.tsv', 'r') as tsvfile:
+with open('/Users/aiolf1/Desktop/tm_miniproject_fat32/G_Drive/test_tk_upsampling_replaced.tsv', 'r') as tsvfile:
   reader = csv.reader(tsvfile, delimiter='\t')
   for row in reader:
       # Get label as int
@@ -14,7 +14,7 @@ with open('/Users/aiolf1/Desktop/tm_miniproject_fat32/G_Drive/test_tk_flair_base
 
 # Get predicted labels
 pred = []
-with open('/Users/aiolf1/Desktop/tm_miniproject_fat32/G_Drive/test_tk_flair_baseline.tsv', 'r') as tsvfile:
+with open('/Users/aiolf1/Desktop/tm_miniproject_fat32/G_Drive/test_tk_upsampling_replaced.tsv', 'r') as tsvfile:
   reader = csv.reader(tsvfile, delimiter='\t')
   for row in reader:
       # Get label as int
